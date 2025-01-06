@@ -6,6 +6,6 @@ wuhan,hubei,China
 
 email:zhouzh@whu.edu.cn
 
-web: ！【点击这里】（https://github.com/zhouzh0201/personal-web-sites）
+web: （【点击这里】（https://github.com/zhouzh0201/personal-web-sites））
 
  
